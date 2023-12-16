@@ -1,3 +1,6 @@
 [submodule "demos/fluid-sim-2d"]
 	path = demos/fluid-sim-2d
 	url = https://github.com/stakikawa/fluid-sim-2d.git
+[submodule "demos/simulated-annealing-graph-drawing"]
+	path = demos/simulated-annealing-graph-drawing
+	url = https://github.com/stakikawa/simulated-annealing-graph-drawing
